@@ -34,7 +34,7 @@ I’m a passionate developer focused on creating clean, efficient, and scalable 
 
 ## 📊 GitHub Stats
 
-![Divyansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=divyanshrai&show_icons=true&theme=default&hide=stars)
+![priyansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyansh&show_icons=true&theme=default&hide=stars)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshrai&layout=compact)
 
@@ -42,9 +42,9 @@ I’m a passionate developer focused on creating clean, efficient, and scalable 
 
 ## 📫 Contact Me
 
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
-- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- 🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)
+- 📧 Email: priyansh0906@icloud.com
+- 💼 LinkedIn: https://www.linkedin.com/in/priyansh-rai- 
+- 🌐 Portfolio: [index.html.com](https://yourwebsite.com)
 
 ---
 
