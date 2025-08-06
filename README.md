@@ -13,7 +13,7 @@ I’m a passionate developer focused on creating clean, efficient, and scalable 
 
 ## 🚀 Skills
 
-- 💻 Programming: `C`, `C++`, `Python`, `Java`, `JavaScript`
+- 💻 Programming: `C`, `Python`, `Java`, `JavaScript`
 - 🌐 Web: `HTML`, `CSS`, `React`, `Node.js`, `Express.js`
 - 🛢️ Database: `MySQL`, `MongoDB`
 - 🧠 CS Fundamentals: Data Structures, Algorithms, OOPs
@@ -44,7 +44,7 @@ I’m a passionate developer focused on creating clean, efficient, and scalable 
 
 - 📧 Email: priyansh0906@icloud.com
 - 💼 LinkedIn: https://www.linkedin.com/in/priyansh-rai- 
-- 🌐 Portfolio: [index.html.com](https://yourwebsite.com)
+- 🌐 Portfolio:https://priyansh-rai109.github.io/portfolio/index..html
 
 ---
 
