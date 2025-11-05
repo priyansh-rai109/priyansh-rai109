@@ -26,7 +26,7 @@ I’m a passionate developer focused on creating clean, efficient, and scalable 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
 | 🔗 [Portfolio Website](https://priyansh-rai109.github.io/portfolio/index..html) | A personal portfolio to showcase my projects, resume, and contact | HTML|
-| 🔗 [photography portfolio](https://priyansh-rai109.github.io/Priyansh-photography-portfolio/about.html) | A to-do app with CRUD functionality | HTML,CSS|
+| 🔗 [photography portfolio](https://priyansh-rai109.github.io/Priyansh-photography-portfolio/about.html) | My photography portfolio website — a collection of my favorite shots and projects, designed to highlight my work in a clean and responsive layout. | HTML,CSS|
 | 🔗 [DSA Problems](https://github.com/username/dsa-practice) | Repository of solved data structure and algorithm problems | C++, Python |
 | 🔗 [Blog Website](https://github.com/username/blog-website) | Full-stack blog with authentication and markdown support | Node.js, Express, MongoDB |
 
