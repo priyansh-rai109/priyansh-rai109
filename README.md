@@ -19,22 +19,22 @@ I’m a passionate developer focused on creating clean, efficient, and scalable 
 - 🧠 CS Fundamentals: Data Structures, Algorithms, OOPs
 - 🔧 Tools & Platforms: Git, GitHub, VS Code, Linux, Postman
 
----
+---z
 
 ## 🛠️ Projects
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-|🔗[Portfolio personal](xhttps://priyansh-rai109.github.io/priyansh-showcase/index.html) | A personal portfolio to showcase my projects, resume, and contact | HTML.CSS.JS|
+|🔗[Portfolio personal](https://priyansh-rai109.github.io/priyansh-showcase/index.html) | A personal portfolio to showcase my projects, resume, and contact | HTML.CSS.JS|
 |🔗[photography portfolio](https://priyansh-rai109.github.io/Priyansh-photography-portfolio/contact.html) | My photography portfolio website — a collection of my favorite shots and projects, designed to highlight my work in a clean and responsive layout. | HTML,CSS|
 |🔗[DSA project](https://priyansh-rai109.github.io/patient-managment/) | Developed a Patient Management System using data structures to efficiently store, retrieve, and manage patient records. | C,HTML,CSS,Js |
 ---
 
 ## 📊 GitHub Stats
 
-![priyansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyansh&show_icons=true&theme=default&hide=stars)
+![priyansh's GitHub Stats](![Priyansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyansh-rai109&show_icons=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=divyanshrai&layout=compact)
+![Top Languages]![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyansh-rai109&layout=compact)
 
 ---
 
