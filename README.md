@@ -26,7 +26,7 @@ I’m a passionate developer focused on creating clean, efficient, and scalable 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
 |🔗[Portfolio Website](https://priyansh-rai109.github.io/Priyansh-photography-portfolio/contact.html) | A personal portfolio to showcase my projects, resume, and contact | HTML|
-|🔗[photography portfolio](https://priyansh-rai109.github.io/Priyansh-photography-portfolio/about.html) | My photography portfolio website — a collection of my favorite shots and projects, designed to highlight my work in a clean and responsive layout. | HTML,CSS|
+|🔗[photography portfolio](https://priyansh-rai109.github.io/Priyansh-photography-portfolio/contact.html) | My photography portfolio website — a collection of my favorite shots and projects, designed to highlight my work in a clean and responsive layout. | HTML,CSS|
 |🔗[DSA project](https://priyansh-rai109.github.io/patient-managment/) | Developed a Patient Management System using data structures to efficiently store, retrieve, and manage patient records. | C,html,css,js |
 |🔗[Blog Website](https://github.com/username/blog-website) | Full-stack blog with authentication and markdown support | Node.js, Express, MongoDB |
 
