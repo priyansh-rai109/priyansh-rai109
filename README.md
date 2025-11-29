@@ -32,11 +32,9 @@ I’m a passionate developer focused on creating clean, efficient, and scalable 
 
 ## 📊 GitHub Stats
 
-![priyansh's GitHub Stats](![Priyansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyansh-rai109&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=priyansh-rai109&show_icons=true&theme=tokyonight)
 
-![Top Languages]![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyansh-rai109&layout=compact)
-
----
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=priyansh-rai109&layout=compact&theme=tokyonight)
 
 ## 📫 Contact Me
 
