@@ -16,10 +16,9 @@ Project	Description	Tech Stack
 🔗 Patient Management System	A DSA-based Patient Management System to add, search & manage medical records.	C, HTML, CSS, JS
 📊 GitHub Stats
 ## 📊 GitHub Stats
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyansh-rai109&show_icons=true&theme=tokyonight)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyansh-rai109&layout=compact&theme=tokyonight)
+
 
 📫 Contact Me
 📧 Email: priyansh0906@icloud.com
