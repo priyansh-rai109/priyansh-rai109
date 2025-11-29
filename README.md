@@ -1,48 +1,62 @@
-# 👋 Hi, I'm Priyansh  Rai
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1200&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Priyansh+Rai;Computer+Science+Student;Aspiring+Software+Developer;Tech+Enthusiast+🚀;Welcome+to+my+GitHub+Profile!" />
+</h1>
 
-🎓 Computer Science Student | 💻 Aspiring Software Developer | 🌐 Tech Enthusiast  
-📍 Based in India | 🧠 Lifelong Learner | 🚀 Open to Collaboration
+<p align="center">
+  <img src="https://i.ibb.co/7ks7pQX/github-banner.png" alt="Priyansh GitHub Banner" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Developer-Priyansh_Rai-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tech%20Enthusiast-🔥-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20Source-Lover-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CSE%20Student-yellow?style=for-the-badge" />
+</p>
 
 ---
 
-## 🧑‍💼 About Me
+# 👨‍💻 About Me
 
-I’m a passionate developer focused on creating clean, efficient, and scalable solutions. I love working on real-world projects that solve meaningful problems. Currently diving deeper into **full-stack development**, **data structures**, and **open-source contributions**.
+I’m a passionate developer focused on building clean, efficient, and real-world software.  
+Currently exploring **full-stack development**, **data structures**, and **open-source contributions**.
 
 ---
 
-## 🚀 Skills
+# 🚀 Skills
 
 - 💻 Programming: `C`, `Python`, `Java`, `JavaScript`
-- 🌐 Web: `HTML`, `CSS`, `React`, `Node.js`, `Express.js`
-- 🛢️ Database: `MySQL`, `MongoDB`
-- 🧠 CS Fundamentals: Data Structures, Algorithms, OOPs
-- 🔧 Tools & Platforms: Git, GitHub, VS Code, Linux, Postman
+- 🌐 Web Development: `HTML`, `CSS`, `React`, `Node.js`, `Express.js`
+- 🛢 Databases: `MySQL`, `MongoDB`
+- 🧠 CS Fundamentals: DSA, Algorithms, OOP
+- 🔧 Tools: Git, GitHub, VS Code, Linux, Postman
 
----z
+---
 
-## 🛠️ Projects
+# 🛠 Projects
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-|🔗[Portfolio personal](https://priyansh-rai109.github.io/priyansh-showcase/index.html) | A personal portfolio to showcase my projects, resume, and contact | HTML.CSS.JS|
-|🔗[photography portfolio](https://priyansh-rai109.github.io/Priyansh-photography-portfolio/contact.html) | My photography portfolio website — a collection of my favorite shots and projects, designed to highlight my work in a clean and responsive layout. | HTML,CSS|
-|🔗[DSA project](https://priyansh-rai109.github.io/patient-managment/) | Developed a Patient Management System using data structures to efficiently store, retrieve, and manage patient records. | C,HTML,CSS,Js |
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=priyansh-rai109&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=priyansh-rai109&layout=compact&theme=tokyonight)
-
-## 📫 Contact Me
-
-- 📧 Email: priyansh0906@icloud.com
-- 💼 LinkedIn: https://www.linkedin.com/in/priyansh-rai- 
-- 🌐 Portfolio:https://priyansh-rai109.github.io/portfolio/index..html
+| 🔗 [Portfolio Website](https://priyansh-rai109.github.io/priyansh-showcase/) | Personal portfolio to showcase my work | HTML, CSS, JS |
+| 🔗 [Photography Portfolio](https://priyansh-rai109.github.io/Priyansh-photography-portfolio/) | A clean and responsive photography website | HTML, CSS |
+| 🔗 [DSA Project – Patient Management](https://priyansh-rai109.github.io/patient-managment/) | Patient Management System built using Data Structures | C, HTML, CSS, JS |
 
 ---
 
-_“Strive for progress, not perfection.”_
+# 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=priyansh-rai109&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyansh-rai109&layout=compact&theme=tokyonight" width="40%" />
+</p>
+
+---
+
+# 📫 Contact Me
+
+- 📧 Email: **priyansh0906@icloud.com**
+- 💼 LinkedIn: **https://www.linkedin.com/in/priyansh-rai-**
+- 🌐 Portfolio: **https://priyansh-rai109.github.io/portfolio/**
+
+---
+
+_✨ “Strive for progress, not perfection.” ✨_
